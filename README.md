@@ -1,2 +1,4 @@
 # CVCamera_GL_LowLevel
- 
+
+Low-level Native PluginとOpenCVのもとUnity上でウェブカメラを使用するテスト
+OpenGLCore版が見つからなかったのでOpenGLCoreで実装
